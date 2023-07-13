@@ -1,4 +1,4 @@
-## Docker install inside wsl
+# Docker install inside wsl
 
 To install Docker inside WSL (Windows Subsystem for Linux), you can follow these steps:
 
@@ -40,6 +40,7 @@ To install Docker inside WSL (Windows Subsystem for Linux), you can follow these
    ```
 
 7. After the installation completes, verify that Docker is running by executing the following command:
+
    ```sh
    sudo docker run hello-world
    ```
