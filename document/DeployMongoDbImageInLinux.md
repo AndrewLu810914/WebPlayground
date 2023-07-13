@@ -15,6 +15,6 @@ docker ps
 
 Connection string will be
 
-```
+```txt
 mongodb://localhost:27017/?readPreference=primary&ssl=false&directConnection=true
 ```
